@@ -1,12 +1,6 @@
-# iYodleeIAE
+# iYodleeIAE - Dedicated to Buggers..!! (by Sathish Dustakar)
+***************************************************************
 
-***************************************
-***									***
-***  		iYodlee IAE				***
-***	 Developed by Sathish Dustakar	***
-***	 	Dedicated to Buggers..!!	***
-***									***
-***************************************
 
 # Contents
 1. Short Description of the extension
