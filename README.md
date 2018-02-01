@@ -4,7 +4,7 @@
 ***									***
 ***  		iYodlee IAE				***
 ***	 Developed by Sathish Dustakar	***
-***	 	- Dedicated to Buggers..!!	***
+***	 	Dedicated to Buggers..!!	***
 ***									***
 ***************************************
 
@@ -15,8 +15,7 @@ Contents
 3. Features
 4. Conclusion
 
-==================================
-Short Description of the extension
+# Short Description of the extension
 ==================================
 
 - Every bug fixing developer, generally uses FIREMEM, QUERY CENTER, ADT & SPLUNK. 
