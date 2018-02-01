@@ -1,0 +1,37 @@
+{
+   "manifest_version": 2,
+   "name": "iYodlee IAE",
+   "description": "Less Time..!!! More Effort..!! - Sathish Dustakar",
+   "version": "1.1",
+   "icons": {
+      "16": "raw-img/icon.png",
+      "48": "raw-img/icon.png",
+      "128": "raw-img/icon.png"
+   },
+   "browser_action": {
+      "default_icon": "raw-img/icon.png",
+      "default_popup": "main_popup.html"
+   },
+   "background": {
+      "scripts": [
+         "js/customBackgroundService.js"
+      ]
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Alt+S",
+            "mac": "Alt+S",
+            "windows": "Alt+S"
+         }
+      }
+   },
+   "update_url": "http://www.example.com/update.xml",
+   "permissions": [
+      "tabs",
+      "activeTab",
+      "http://*/*",
+      "https://*/*",
+      "storage"
+   ]
+}
