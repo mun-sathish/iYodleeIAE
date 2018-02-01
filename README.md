@@ -53,7 +53,7 @@
 		- Sum Info
 		- Script Latency in Sec
 		- No of Successful Refresh
-	* Use "<Process Log Generator>" to generate shell script commands to get the process log of the given row number.
+	* Use "\<Process Log Generator\>" to generate shell script commands to get the process log of the given row number.
 	* Use "Open Dump in New Tab" button to open the dump of the row you would like to access.
 
 3. Splunk
