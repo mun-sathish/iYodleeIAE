@@ -8,7 +8,7 @@
 
 #### **Version 1.1** 
 - Changed **Query Center button** to creating new tab when clicked.
-- Made clicking of button in **Firemem Tab** of extension proper clickable
+- Made clicking of button in **Firemem Tab** proper clickable
 - In **ADT**, added **JSON support** for Base Agent Code Push.
 ***************************************************************
 
@@ -48,35 +48,35 @@
 ## Features
 
 **1. FIREMEM**
-	* Trigger Firemem in a blink of an eye without navigating to anywhere in Platform, Developer or Production Environment.
-	* Most of the options are defaultly selected.
-	* Just need to provide ItemID & choose Environment & click on "Submit", rest of the effort will be taken care automatically.
-	* Database is provided in dropdown based on your regular usages, in rare cases you can manually provide DB name in the input field if required.
+* Trigger Firemem in a blink of an eye without navigating to anywhere in Platform, Developer or Production Environment.
+* Most of the options are defaultly selected.
+* Just need to provide ItemID & choose Environment & click on "Submit", rest of the effort will be taken care automatically.
+* Database is provided in dropdown based on your regular usages, in rare cases you can manually provide DB name in the input field if required.
 
 **2. QUERY CENTER**
-	* In-built Intelligence where based on the developer usages, Queries & Cobrands are being displayed. 
-	* Also after getting the result, Queries is displayed to navigate quickly based on the values available on the screen.
-	* For easy access, below values will be displayed if found on the query result.
-		- MSA
-		- CII
-		- Site ID
-		- Sum Info
-		- Script Latency in Sec
-		- No of Successful Refresh
-	* Use "\<Process Log Generator\>" to generate shell script commands to get the process log of the given row number.
-	* Use "Open Dump in New Tab" button to open the dump of the row you would like to access.
+* In-built Intelligence where based on the developer usages, Queries & Cobrands are being displayed. 
+* Also after getting the result, Queries is displayed to navigate quickly based on the values available on the screen.
+* For easy access, below values will be displayed if found on the query result.
+	- MSA
+	- CII
+	- Site ID
+	- Sum Info
+	- Script Latency in Sec
+	- No of Successful Refresh
+* Use "\<Process Log Generator\>" to generate shell script commands to get the process log of the given row number.
+* Use "Open Dump in New Tab" button to open the dump of the row you would like to access.
 
 **3. Splunk**
-	* If you want to open multiple stats at a single shot, then fill the form seperated with commas, rest is taken care automatically.
-	* Depending on the number of values provided, respective number of tabs will be opened for you.
+* If you want to open multiple stats at a single shot, then fill the form seperated with commas, rest is taken care automatically.
+* Depending on the number of values provided, respective number of tabs will be opened for you.
 
 **4. ADT**
-	* You need to just open ADT even if it is logged out from ToolCenter. You will be logged in automatically & navigates to the Migration Page & asks for SUMINFO.
-	* If Base Class needs to be pushed? click on cancel, you will be moved to that place & now provide Agent Name & Version and click "Submit" to see next automatically.
-	* If DB push required, click on DB Radio button, you will be prompted for SITE ID & rest job is taken care.
+* You need to just open ADT even if it is logged out from ToolCenter. You will be logged in automatically & navigates to the Migration Page & asks for SUMINFO.
+* If Base Class needs to be pushed? click on cancel, you will be moved to that place & now provide Agent Name & Version and click "Submit" to see next automatically.
+* If DB push required, click on DB Radio button, you will be prompted for SITE ID & rest job is taken care.
 
 **5. COMMON TO ALL**
-	* Automatic Logging In from ToolCenter & navigating to respective pages is taken care by the extension for ALL 3 Firemem Environments, Query Center, ADT.
+* Automatic Logging In from ToolCenter & navigating to respective pages is taken care by the extension for ALL 3 Firemem Environments, Query Center, ADT.
 
 
 ## CONCLUSION
