@@ -1,5 +1,5 @@
 # iYodleeIAE - Dedicated to Buggers..!! (by Sathish Dustakar)
-***************************************************************
+
 
 #### **Version 1.2**
 - **Firemem 2.0** feature added **[MAJOR FEATURE]**
@@ -10,6 +10,7 @@
 - Changed **Query Center button** to creating new tab when clicked.
 - Made clicking of button in **Firemem Tab** of extension proper clickable
 - In **ADT**, added **JSON support** for Base Agent Code Push.
+***************************************************************
 
 ## Contents
 1. Short Description of the extension
