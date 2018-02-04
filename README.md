@@ -1,15 +1,16 @@
 # iYodleeIAE - Dedicated to Buggers..!! (by Sathish Dustakar)
 ***************************************************************
 
+<b style="size: 45px';color;green;">Hello</b>
 
-# Contents
+## Contents
 1. Short Description of the extension
 1. Installation
 2. Usage Restrictions
 3. Features
 4. Conclusion
 
-# Short Description of the extension
+## Short Description of the extension
 
 - Every bug fixing developer, generally uses FIREMEM, QUERY CENTER, ADT & SPLUNK. 
 - We spend quite a few time to perform login, navigating, & clicking on many elements. Also since its get timedout, we have to go to start from ToolCenter everytime.
@@ -17,7 +18,7 @@
 - It is coded with intelligence where depending on the developer's usages, it displays Cobrands & Queries which he/she uses frequently as displayed in QC.
 
 
-# Installation Instructions
+## Installation Instructions
 
 1. Goto "chrome://extensions/" 
 2. Click on "Developer Mode" checkbox which is in Top of Page.
@@ -27,7 +28,7 @@
 5. Use keyboard Shortcut "Alt + S" to start the extension.
 
 
-# Usage Instructions
+## Usage Instructions
 
 * Move the cursor over the tabs, clicking not needed.
 * Don't trigger firemem via extension in blank tabs
@@ -35,7 +36,7 @@
 * Make sure to be logged in any service before using via extension.
 
 
-# Features
+## Features
 
 1. FIREMEM
 	* Trigger Firemem in a blink of an eye without navigating to anywhere in Platform, Developer or Production Environment.
@@ -69,6 +70,6 @@
 	* Automatic Logging In from ToolCenter & navigating to respective pages is taken care by the extension for ALL 3 Firemem Environments, Query Center, ADT.
 
 
-# CONCLUSION
+## CONCLUSION
 
-My sincere thanks to Sanyam Jain (DAT Ext) & Harsh Mehta (Personal Ext) whose extensions inspired me to create this iYodlee IAE Chrome Extension.
+> My sincere thanks to Sanyam Jain (DAT Ext) & Harsh Mehta (Personal Ext) whose extensions inspired me to create this iYodlee IAE Chrome Extension.
